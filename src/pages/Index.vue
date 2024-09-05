@@ -5,28 +5,24 @@
         <div class="flex flex-col items-center mb-2 text-ui-primary">
           <Logo :width="80" />
           <h2 class="text-3xl text-6xl font-black tracking-tighter border-none">
-            DOCC
+            OpenAC .Net
           </h2>
         </div>
         <h1 class="text-4xl text-center lg:text-5xl">
-          Great Documentation starts here.
+          Automação Comercial em .Net.
         </h1>
         <p class="text-xl font-medium text-center">
-          Perfect Lighthouse score out of the box. Easy to set-up. Dark mode included.
+          Componentes para ajudar na sua automação comercial em .Net.
           <br>
-          <strong class="text-ui-primary">Got a minute?</strong>
+          <strong class="text-ui-primary">Tem um minuto?</strong>
         </p>
-
-        <div class="py-4">
-          <code class="block px-4 py-1 select-all bg-ui-border text-ui-typo">gridsome create your-project https://github.com/mrcrmn/docc</code>
-        </div>
 
         <div class="flex justify-center mt-8">
           <g-link
             to="/docs/"
             class="flex items-center px-6 py-4 ml-auto text-2xl font-bold leading-none text-white border rounded-lg shadow-lg bg-ui-primary border-ui-primary transition-all duration-200 ease-out transform hover:shadow-xl hover:-translate-y-1"
           >
-            Get started
+            Iniciar
             <ArrowRightCircleIcon class="ml-4" size="1x" />
           </g-link>
         </div>
@@ -90,8 +86,8 @@ export default {
   },
 
   metaInfo() {
-    const title = 'Great Documentation starts here';
-    const description = 'DOCC is a starter theme with instant search and dark mode for writing great technical documentation. Based on Gridsome!';
+    const title = 'Pagina Inicial';
+    const description = 'Documentação do componentes do Projeto OpenAC .Net!';
 
     return {
       title: title,

@@ -7,15 +7,12 @@
           <g-link
             to="/"
             class="flex items-center text-ui-primary"
-            title="Home"
+            title="Pagina Inicial"
           >
             <Logo :width="40" class="text-ui-primary" />
-            <span class="hidden ml-2 text-xl font-black tracking-tighter uppercase sm:block">
-              {{ meta.siteName }}
-            </span>
           </g-link>
 
-          <div v-if="settings.nav.links.length > 0" class="hidden ml-2 mr-5 sm:block sm:ml-8">
+          <div v-if="settings.nav.links.length > 0" class="hidden ml-2 mr-5 sm:inline-flex sm:ml-8">
             <g-link
               v-for="link in settings.nav.links"
               :key="link.path"
@@ -48,7 +45,7 @@
           </a>
 
           <ToggleDarkMode class="ml-2 sm:ml-8">
-            <template slot="default" slot-scope="{ dark }">
+            <template v-slot:default="{ dark }">
               <MoonIcon v-if="dark" size="1.5x" />
               <SunIcon v-else size="1.5x" />
             </template>

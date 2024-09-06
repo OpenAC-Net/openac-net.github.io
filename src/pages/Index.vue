@@ -39,30 +39,33 @@
         <div class="flex flex-col items-center w-full px-4 mb-8 text-center md:w-1/3">
           <ZapIcon size="3x" class="mb-6 text-ui-primary" />
           <h3 class="font-bold tracking-wide uppercase text-ui-primary">
-            Incredibly Fast
+            Bibliotecas
           </h3>
           <p class="text-lg text-left">
-            Powered by Gridsome. Built on Vue. Outputs static files. It wont't get any faster than this. <span class="border-b border-dashed border-ui-primary text-ui-primary">No seriously</span>.
+            Utilizando a Plataforma .Net. você pode utilizar os componentes em qualquer linguagem .Net. <span class="border-b border-dashed border-ui-primary text-ui-primary">Inclusive VB .Net ou IronPython</span>.
           </p>
         </div>
 
         <div class="flex flex-col items-center w-full px-4 mb-8 text-center md:w-1/3">
           <SearchIcon size="3x" class="mb-6 text-ui-primary" />
           <h3 class="font-bold tracking-wide uppercase text-ui-primary">
-            Instant Search
+            Execute em qualquer lugar
           </h3>
           <p class="text-lg text-left">
-            All headlines are indexed. Instant search powered by Fuse.js. Find what you are looking for in the <span class="border-b border-dashed border-ui-primary text-ui-primary">blink of an eye</span>.
+            Apesar do foco em aplicações desktop, você pode utilizar as mesma em qualquer aplicação web. <span class="border-b border-dashed border-ui-primary text-ui-primary">Em qualquer sistema operacional</span>.
           </p>
         </div>
 
         <div class="flex flex-col items-center w-full px-4 mb-8 text-center md:w-1/3">
           <MoonIcon size="3x" class="mb-6 text-ui-primary" />
           <h3 class="font-bold tracking-wide uppercase text-ui-primary">
-            Lights out
+            Frameworks Suportados
           </h3>
           <p class="text-lg text-left">
-            Working late at night again? Enable dark mode with the click of a button.
+            Atualmente os componentes suportam os seguintes frameworks.
+            <span class="border-b border-dashed border-ui-primary text-ui-primary">
+              NET Framework 4.6.2 ou superior, Net 6 ou superior e Net Standard 2.0
+            </span>.
           </p>
         </div>
       </div>

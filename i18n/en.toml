@@ -1,0 +1,54 @@
+[404_text]
+other = "A pagina que está procurando não existe ou foi removida."
+
+[404_title]
+other = "Pagina não encontrada :("
+
+[browse]
+other = "Navegar"
+
+[chapter_next]
+other = "Proximo"
+
+[chapter_previous]
+other = "Anterior"
+
+[edit_page]
+other = "Edite esta pagina em"
+
+[get_started]
+other = "Iniciar"
+
+[home]
+other = "Pagina Inicial"
+
+[last_updated]
+other = "Atualizado em"
+
+[minute]
+one = "minuto"
+other = "minutos"
+
+[on_this_page]
+other = "nesta página"
+
+[reading_time]
+other = "Tempo estimado de leitura"
+
+[search_loading]
+other = "Loading search index…"
+
+[search_no_recent]
+other = "No recent searches"
+
+[search_no_results]
+other = "Sem resultados"
+
+[search_placeholder]
+other = "Procurar"
+
+[search_title]
+other = "Procurar"
+
+[video_unsupported]
+other = "Your browser doesn't support embedded videos, but don't worry, you can <a href=\"{{ .RelPermalink }}\">download it</a> and watch it with your favorite video player!"

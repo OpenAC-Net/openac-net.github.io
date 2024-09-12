@@ -1,5 +1,6 @@
 ---
-title: "Sobre"
+slug: "sobre"
+title: "Introdução"
 description: "Iniciando o uso do OpenAC .Net."
 summary: ""
 date: 2023-09-07T16:04:48+02:00
@@ -13,16 +14,11 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-
-# Introdução ao Projeto OpenAC .Net
-
 Bem-vindo ao **OpenAC .Net**, uma solução inovadora para automação comercial desenvolvida utilizando o framework .NET. Este projeto de código aberto é projetado para oferecer uma plataforma robusta e flexível para a construção e gestão de sistemas de automação comercial, atendendo às necessidades de empresas de diversos tamanhos e setores.
-
 
 ## O Que é o OpenAC .Net?
 
 O **OpenAC .Net** é um conjuto de bibliotecas dedicadas à automação comercial, que facilita a implementação de pontos de venda (PDV), emissão de notas fiscais, e muito mais. Utilizando o poder e a flexibilidade do .NET, o projeto visa simplificar a criação de sistemas comerciais modernos e eficientes.
-
 
 ## Conclusão
 

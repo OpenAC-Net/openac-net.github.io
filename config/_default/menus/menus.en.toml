@@ -59,7 +59,7 @@
 
 # [[sidebar_docs]]
 #   name = "Guides"
-#   pageRef = "/docs/guides"
+#   pageRef = "/docs/openac"
 #   weight = 10
 
 # [[sidebar_docs]]

@@ -2,8 +2,8 @@
 title: "Bem Vindo"
 description: "Bem vindo ao novo site do OpenAC .Net."
 summary: "Bem vindo ao novo site do OpenAC .Net."
-date: 2024-09-11T14:02:22+02:00
-lastmod: 2024-09-11T14:02:22+02:00
+date: 2024-09-11T14:02:00-04:00
+lastmod: 2024-09-11T14:02:00-04:00
 draft: false
 weight: 50
 categories: ["OpenAC"]

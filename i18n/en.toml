@@ -36,10 +36,10 @@ other = "nesta página"
 other = "Tempo estimado de leitura"
 
 [search_loading]
-other = "Loading search index…"
+other = "Carregando o index de pesquisa…"
 
 [search_no_recent]
-other = "No recent searches"
+other = "Sem pesquisas recentes"
 
 [search_no_results]
 other = "Sem resultados"
@@ -51,4 +51,4 @@ other = "Procurar"
 other = "Procurar"
 
 [video_unsupported]
-other = "Your browser doesn't support embedded videos, but don't worry, you can <a href=\"{{ .RelPermalink }}\">download it</a> and watch it with your favorite video player!"
+other = "Seu navegador não suporta videos embutidos, não se preocupe, você pode <a href=\"{{ .RelPermalink }}\">baixa-lo</a> e assistir no seu player favorito!"

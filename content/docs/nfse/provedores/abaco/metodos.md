@@ -15,12 +15,9 @@ seo:
   noindex: false # false (default) or true
 ---
 * Envio.
-  * Síncrono
   * Assíncrono
-  * Necessita envio sequencial
-  * Aceita envio de lote de RPS
 * Consulta de lote
-* Consulta de Sequencial RPS
+* Consulta de Situação lote
 * Consulta de NFSe por RPS
 * Consulta de NFSe
 * Cancelamento de NFSe.
